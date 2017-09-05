@@ -20,3 +20,7 @@ var d = 5;
 > There is a block quote
 ---
 > And another one
+
+* stryker
+
+https://www.custardbelly.com/blog/blog-posts/2014/01/08/bdd-in-js-cucumberjs/
